@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/onGod/static/css/main.a989515d.css",
-    "main.js": "/onGod/static/js/main.3496c378.js",
+    "main.js": "/onGod/static/js/main.5d2bc3a5.js",
     "static/js/787.a4f8f35f.chunk.js": "/onGod/static/js/787.a4f8f35f.chunk.js",
     "static/media/pexels-thisisengineering-3861969.jpg": "/onGod/static/media/pexels-thisisengineering-3861969.ada8b66550a5668d0f4e.jpg",
     "static/media/pexels-hasib-khorami-1496647.jpg": "/onGod/static/media/pexels-hasib-khorami-1496647.50ed6cf545450d6f2b6e.jpg",
     "static/media/pexels-sharad-kachhi-3937174.jpg": "/onGod/static/media/pexels-sharad-kachhi-3937174.42899a2c2c388d67ed4c.jpg",
     "static/media/pexels-markus-spiske-3970330.jpg": "/onGod/static/media/pexels-markus-spiske-3970330.032f188517a020b938c3.jpg",
     "static/media/pexels-karolina-grabowska-4977446-alt.jpg": "/onGod/static/media/pexels-karolina-grabowska-4977446-alt.f058fef810c5f0a58a3a.jpg",
+    "static/media/Rediscovering the kingdom by myles munroe.pdf": "/onGod/static/media/Rediscovering the kingdom by myles munroe.e787b00492d327bfbfdd.pdf",
     "static/media/pexels-fauxels-3184454-alt.jpg": "/onGod/static/media/pexels-fauxels-3184454-alt.7231cbb354a306b27c4b.jpg",
     "static/media/pexels-rebrand-cities-1367276-alt.jpg": "/onGod/static/media/pexels-rebrand-cities-1367276-alt.60e2d2a388c8b63bd4ba.jpg",
     "static/media/pexels-startup-stock-photos-7377.jpg": "/onGod/static/media/pexels-startup-stock-photos-7377.7d2a6dadb118671af257.jpg",
@@ -15,14 +16,13 @@
     "static/media/cam-4.jpg": "/onGod/static/media/cam-4.ab5937d228cd701f3840.jpg",
     "static/media/cam-3.jpg": "/onGod/static/media/cam-3.0bc3523b2db6d5522a5d.jpg",
     "static/media/cam-1.jpeg": "/onGod/static/media/cam-1.39b4b0d43297062af121.jpeg",
-    "static/media/membership.docx": "/onGod/static/media/membership.511ad9b895a377f79f13.docx",
     "index.html": "/onGod/index.html",
     "main.a989515d.css.map": "/onGod/static/css/main.a989515d.css.map",
-    "main.3496c378.js.map": "/onGod/static/js/main.3496c378.js.map",
+    "main.5d2bc3a5.js.map": "/onGod/static/js/main.5d2bc3a5.js.map",
     "787.a4f8f35f.chunk.js.map": "/onGod/static/js/787.a4f8f35f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a989515d.css",
-    "static/js/main.3496c378.js"
+    "static/js/main.5d2bc3a5.js"
   ]
 }
