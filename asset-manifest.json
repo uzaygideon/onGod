@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/onGod/static/css/main.db8fba4d.css",
+    "main.css": "/onGod/static/css/main.a989515d.css",
     "main.js": "/onGod/static/js/main.3496c378.js",
     "static/js/787.a4f8f35f.chunk.js": "/onGod/static/js/787.a4f8f35f.chunk.js",
     "static/media/pexels-thisisengineering-3861969.jpg": "/onGod/static/media/pexels-thisisengineering-3861969.ada8b66550a5668d0f4e.jpg",
@@ -17,12 +17,12 @@
     "static/media/cam-1.jpeg": "/onGod/static/media/cam-1.39b4b0d43297062af121.jpeg",
     "static/media/membership.docx": "/onGod/static/media/membership.511ad9b895a377f79f13.docx",
     "index.html": "/onGod/index.html",
-    "main.db8fba4d.css.map": "/onGod/static/css/main.db8fba4d.css.map",
+    "main.a989515d.css.map": "/onGod/static/css/main.a989515d.css.map",
     "main.3496c378.js.map": "/onGod/static/js/main.3496c378.js.map",
     "787.a4f8f35f.chunk.js.map": "/onGod/static/js/787.a4f8f35f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.db8fba4d.css",
+    "static/css/main.a989515d.css",
     "static/js/main.3496c378.js"
   ]
 }
